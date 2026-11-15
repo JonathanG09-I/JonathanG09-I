@@ -66,6 +66,17 @@ A student wellbeing platform focused on active listening, emotional support and 
 
 ---
 
+## 🌱 Professional Skills
+
+- **Project Coordination** — Planning tasks and supporting the progress of a team project.
+- **Teamwork & Collaboration** — Working with others toward shared goals.
+- **Problem Solving** — Analyzing challenges and looking for practical solutions.
+- **Organization & Responsibility** — Managing tasks and following through on commitments.
+- **Continuous Learning** — Staying curious and developing new skills.
+- **Communication & Leadership** — Continuously developing through collaborative projects and leadership activities.
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
