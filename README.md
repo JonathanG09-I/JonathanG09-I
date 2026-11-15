@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Jonathan Gonzalez - Developer Banner">
+</p>
 # Hi there! I'm Jonathan Gonzalez 👋
 
 ### Computer Science Student | Aspiring Software Engineer
