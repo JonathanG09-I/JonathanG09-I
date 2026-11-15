@@ -38,15 +38,19 @@ I enjoy learning by building projects, solving problems and exploring tools that
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
 ### [Carthy](https://github.com/JonathanG09-I/Carthy)
-
 A student wellbeing platform focused on active listening, emotional support and digital wellness tools for educational communities.
 
 **My role:** Project Manager in a 7-member student team, contributing to project planning, coordination and the development process.
 
 **Technologies:** React, Tailwind CSS, Python, Django and SQLite (during development).
+
+### More projects coming soon
+I'm working on organizing and documenting additional programming exercises and academic projects. I'll add them here as their repositories are ready to share.
+
+[Explore all my repositories](https://github.com/JonathanG09-I?tab=repositories).
 
 ---
 
@@ -82,8 +86,6 @@ A student wellbeing platform focused on active listening, emotional support and 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JonathanG09-I&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-You can also explore my [repositories](https://github.com/JonathanG09-I?tab=repositories) and follow my progress through GitHub's contribution graph below.
 
 ---
 
