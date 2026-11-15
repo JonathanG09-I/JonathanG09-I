@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Jonathan Gonzalez - Developer Banner">
 </p>
+
 # Hi there! I'm Jonathan Gonzalez 👋
 
 ### Computer Science Student | Aspiring Software Engineer
@@ -53,6 +54,15 @@ A student wellbeing platform focused on active listening, emotional support and 
 
 - **Microsoft Office Specialist (MOS) – Excel Expert**
 - **Cisco – Python Essentials 1**
+
+---
+
+## 🏅 Programs & Experiences
+
+- **¡Supérate! Program** — Three years of learning and development in technology, academic skills and personal growth.
+- **Hackathon** — Participation in a collaborative technology event focused on developing ideas and solutions.
+- **Expo Tech** — Participation in a technology exhibition showcasing projects and technical learning.
+- **Expo de Logros** — Participation in an event presenting learning outcomes and projects.
 
 ---
 
