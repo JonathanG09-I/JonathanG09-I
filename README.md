@@ -2,15 +2,15 @@
 
 ### Computer Science Student | Aspiring Software Engineer
 
-I'm a Computer Science student passionate about programming, technology and software development.
+I'm a Computer Science student and ¡Supérate! scholarship recipient from Panama, interested in programming, software development and technology.
 
-I'm constantly learning, exploring new technologies and building projects to improve my technical and problem-solving skills.
+I enjoy learning by building projects, solving problems and exploring tools that help turn ideas into useful solutions.
 
-- 🎓 Computer Science student at Colegio José Guardia Vega.
-- 💻 Interested in software development, Python and web technologies.
+- 🎓 Studying Computer Science at Colegio José Guardia Vega.
+- 💻 Interested in Python, web development and software engineering.
 - 🚀 Project Manager of **Carthy**, a student wellbeing platform.
-- 📚 Always learning and improving my programming skills.
-- 🤝 Interested in collaborating on creative technology projects.
+- 📚 Committed to continuous learning and improving my technical skills.
+- 🤝 Open to collaborating on educational and creative technology projects.
 
 ---
 
@@ -36,7 +36,7 @@ I'm constantly learning, exploring new technologies and building projects to imp
 
 ## 🚀 Featured Project
 
-### Carthy
+### [Carthy](https://github.com/JonathanG09-I/Carthy)
 
 A student wellbeing platform focused on active listening, emotional support and digital wellness tools for educational communities.
 
@@ -44,18 +44,23 @@ A student wellbeing platform focused on active listening, emotional support and 
 
 ---
 
-## 📊 GitHub Statistics
+## 📜 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanG09-I&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JonathanG09-I&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JonathanG09-I&theme=tokyonight&no-frame=true&row=1&column=6)
+- **Microsoft Office Specialist (MOS) – Excel Expert**
+- **Cisco – Python Essentials 1**
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JonathanG09-I&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+You can also explore my [repositories](https://github.com/JonathanG09-I?tab=repositories) and follow my progress through GitHub's contribution graph below.
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
