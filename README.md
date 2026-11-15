@@ -8,7 +8,7 @@ I enjoy learning by building projects, solving problems and exploring tools that
 
 - 🎓 Studying Computer Science at Colegio José Guardia Vega.
 - 💻 Interested in Python, web development and software engineering.
-- 🚀 Project Manager of **Carthy**, a student wellbeing platform.
+- 🚀 Project Manager of **Carthy**, a student wellbeing platform developed by a 7-member team.
 - 📚 Committed to continuous learning and improving my technical skills.
 - 🤝 Open to collaborating on educational and creative technology projects.
 
@@ -40,7 +40,9 @@ I enjoy learning by building projects, solving problems and exploring tools that
 
 A student wellbeing platform focused on active listening, emotional support and digital wellness tools for educational communities.
 
-**Technologies:** React, Tailwind CSS, Django and Firebase.
+**My role:** Project Manager in a 7-member student team, contributing to project planning, coordination and the development process.
+
+**Technologies:** React, Tailwind CSS, Python, Django and SQLite (during development).
 
 ---
 
