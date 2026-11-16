@@ -47,8 +47,17 @@ A student wellbeing platform focused on active listening, emotional support and 
 
 **Technologies:** React, Tailwind CSS, Python, Django and SQLite (during development).
 
-### More projects coming soon
-I'm working on organizing and documenting additional programming exercises and academic projects. I'll add them here as their repositories are ready to share.
+### [Control de Gastos Personales](https://github.com/JonathanG09-I/Control-de-Gastos-Python)
+A Python application for recording income and expenses, reviewing transactions, checking monthly summaries and managing budgets.
+
+**Technologies:** Python, CSV and automated tests.
+
+### [Project Super Extra Jonathan](https://github.com/JonathanG09-I/-ProjectSuperExtra-Jonathan)
+A static supermarket-style website showcasing promotions and products through a responsive layout, image carousel and product cards.
+
+**Technologies:** HTML5, CSS3 and Bootstrap 5.3.3.
+
+[Live website](https://jonathang09-i.github.io/-ProjectSuperExtra-Jonathan/)
 
 [Explore all my repositories](https://github.com/JonathanG09-I?tab=repositories).
 
