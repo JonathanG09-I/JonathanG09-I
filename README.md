@@ -52,6 +52,11 @@ A Python application for recording income and expenses, reviewing transactions, 
 
 **Technologies:** Python, CSV and automated tests.
 
+### [Python Learning](https://github.com/JonathanG09-I/Python-Learning)
+A beginner-friendly collection of Python exercises covering basic output, user input, variables, conditional statements and arithmetic operations.
+
+**Topics:** Python fundamentals, `print()`, `input()`, data types, `if/elif/else` and mathematical operations.
+
 ### [Project Super Extra Jonathan](https://github.com/JonathanG09-I/-ProjectSuperExtra-Jonathan)
 A static supermarket-style website showcasing promotions and products through a responsive layout, image carousel and product cards.
 
